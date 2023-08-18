@@ -1,0 +1,18 @@
+form {
+    margin-top: 50px;
+}
+
+.temperature {
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.col-2 {
+    border-radius: 5px;
+    border: 1px solid #000000;
+    padding: 10px 10px;
+    text-align: center;
+    color: black;
+    width: 10%;
+    box-sizing: border-box;
+}
